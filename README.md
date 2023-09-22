@@ -5,4 +5,4 @@ This repository is for the MCIS6273 Data Mining course.
 
 Zotero Username: sjannigorla4453@muleriders.saumag.edu
 
-Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor arcu sed tellus tincidunt, et bibendum justo iaculis.
